@@ -20,4 +20,8 @@ Output:
 
 You can quote someone!
 
->Everyone is smart in their own ways. But, if you judge a fish from its ability to climb a tree, it will live its 
+>Everyone is smart in their own ways. But, if you judge a fish from its ability to climb a tree, it will live its life thinking it is stupid
+>>Albert Einstein
+
+~this is obsolete text~  
+This is not
